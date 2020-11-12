@@ -1,4 +1,4 @@
 # lolbot
-A simple Python bot for Discord
+A simple Python bot for Discord.
 
 Enjoy!
